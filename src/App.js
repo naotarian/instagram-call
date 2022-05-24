@@ -21,14 +21,14 @@ function App() {
 
   return (
     <div>
-      {users.map((user, index) => (
+      {/* {users.map((user, index) => (
         <div key={index}>
           <p>{user.id}</p>
           <p>{user.email}</p>
           <p>{user.name}</p>
         </div>
 
-      ))}
+      ))} */}
     </div>
   );
 }
